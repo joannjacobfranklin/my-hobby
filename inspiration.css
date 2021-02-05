@@ -1,0 +1,47 @@
+#heading {
+    color: blue;
+    text-align: center;
+    font-weight: bold;
+    font-size: 50px;
+}
+
+#grandma {
+    color: red;
+    font-style: italic;
+    font-size: 20px;
+    text-align: center;
+}
+
+
+img {
+    width: 50%;
+    border-color: green;
+    border-style: dotted;
+    transition: transform .2s;
+    
+}
+#watering:hover{
+    transform: scale(0.9);
+         border-color: darkmagenta;
+    border-style: solid;
+    border-width: thick;
+}
+#click{
+  font-family: 'IBM Plex Serif', serif;
+}
+#watering{
+    background-color: aqua;
+   
+    
+}
+h1{
+    color: blue;
+    text-shadow: red;
+}
+#Inspiration{
+   background-color: aqua;
+}
+body{
+    text-align: center;
+}
+

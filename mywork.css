@@ -1,13 +1,35 @@
 #plants {
     background: linear-gradient(red, yellow);
-    
+
 }
+
 img {
-    width: 150px;
+    width: 250px;
     border-radius: 50%;
     text-align: center;
-flex-direction: row-reverse
+    flex-direction: row-reverse
 }
+
 html {
     scroll-behavior: smooth;
+}
+
+h7 {
+    font-size: 50px;
+    font-family: sans-serif;
+    text-align: center;
+    font-family: 'IBM Plex Serif', serif;
+    color: blue;
+}
+
+h8 {
+    color: blue;
+    font-size: 25px;
+    font-style: italic;
+    color: green;
+
+}
+
+body {
+    text-align: center;
 }
