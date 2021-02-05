@@ -1,0 +1,37 @@
+h6 {
+    color: yellow;
+    text-decoration-line: underline;
+    font-family: fantasy;
+    font-size: 20px;
+    text-align: center
+}
+
+#myfavoriteplants {
+    background: linear-gradient(#00d4ff 0%, #1c1cff 100%);
+    text-align: left;
+}
+
+h3 {
+    font-family: 'Lobster', cursive;
+    font-size: 20px;
+}
+
+h4 {
+    font-family: 'Lobster', cursive;
+    font-size: 20px;
+}
+
+h5 {
+    font-family: 'Lobster', cursive;
+    font-size: 20px;
+}
+
+.orchid {
+    font-size: 20px;
+    color: red;
+    text-align: left;
+}
+
+html {
+    scroll-behavior: smooth;
+}
